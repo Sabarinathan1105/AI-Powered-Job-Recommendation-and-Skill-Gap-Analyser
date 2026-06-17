@@ -1,0 +1,28 @@
+John Doe
+john.doe@email.com | github.com/johndoe | linkedin.com/in/johndoe
+
+SUMMARY
+Data Scientist with 3 years of experience building machine learning models and data pipelines.
+Skilled in Python, SQL, and cloud-based ML deployment.
+
+SKILLS
+Python, SQL, pandas, numpy, scikit-learn, TensorFlow, PyTorch, matplotlib, seaborn,
+machine learning, deep learning, statistics, data analysis, data visualisation,
+feature engineering, model evaluation, Jupyter, git, docker, AWS, tableau
+
+EXPERIENCE
+Data Scientist — TechCorp (2022–Present)
+- Built a churn prediction model using XGBoost with 87% accuracy
+- Automated ETL pipelines reducing data processing time by 40%
+- Designed dashboards in Tableau for executive reporting
+
+Data Analyst Intern — Analytics Co (2021)
+- Analysed customer behaviour data using SQL and pandas
+- Created weekly KPI reports using Python and Matplotlib
+
+EDUCATION
+B.Sc. Computer Science — University of Technology (2021)
+
+PROJECTS
+- Resume Screening Tool: NLP-based job matching using TF-IDF and cosine similarity
+- Sales Forecasting: Time-series model using LSTM (PyTorch)

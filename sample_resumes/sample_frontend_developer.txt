@@ -1,0 +1,27 @@
+Jane Smith
+jane.smith@email.com | github.com/janesmith | portfolio.janesmith.dev
+
+SUMMARY
+Frontend Developer with 2 years of experience building responsive web applications
+using React, TypeScript, and modern CSS frameworks.
+
+SKILLS
+HTML, CSS, JavaScript, TypeScript, React, Vue, responsive design, Figma,
+git, REST API, webpack, accessibility, performance optimisation, nodejs, ui/ux
+
+EXPERIENCE
+Frontend Developer — WebAgency (2023–Present)
+- Built 12 client-facing web applications using React and TypeScript
+- Reduced page load time by 35% through bundle optimisation and lazy loading
+- Collaborated with UX designers using Figma to implement pixel-perfect UI
+
+Junior Web Developer — StartupXYZ (2022)
+- Developed interactive UI components using Vue.js
+- Integrated REST APIs and managed state with Vuex
+
+EDUCATION
+B.Sc. Information Technology — City University (2022)
+
+PROJECTS
+- Portfolio Website: React + TypeScript personal site with 95 Lighthouse score
+- E-commerce UI: Full responsive storefront with cart and checkout flow
