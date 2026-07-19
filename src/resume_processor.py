@@ -1,4 +1,3 @@
-# resume_processor.py
 # This is the BRAIN of the system.
 # It contains all the NLP and ML logic — parsing, vectorising, and matching.
 
@@ -24,7 +23,7 @@ def clean_text(text: str) -> str:
     """
     text = text.lower()                          # lowercase everything
     text = text.replace('\n', ' ')               # remove newlines
-    text = re.sub(r'[^\w\s/+#.-]', ' ', text)      # keep letters, digits, / + # (for C++, C#)
+    text = re.sub(r'[^\w\s/+#.-]', ' ', text)    # keep letters, digits, / + # (for C++, C#)
     text = re.sub(r'\s+', ' ', text).strip()     # collapse multiple spaces
     return text
 
