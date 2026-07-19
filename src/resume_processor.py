@@ -192,7 +192,6 @@ def get_category(role_name: str) -> str:
             return category
     return "Other"
 
-
 # ─────────────────────────────────────────────
 # HELPER: Parse PDF/TXT resume to text
 # ─────────────────────────────────────────────
